@@ -250,3 +250,8 @@
 .container-fluid{
     background-color: rgb(222, 252, 252);
 }
+.profile-img{
+    padding-bottom:2rem;
+    width: 200px;
+    height: 200px;
+}
