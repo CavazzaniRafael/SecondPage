@@ -223,3 +223,30 @@
     .footer-a:hover {
     color: #EAF6F6;
     }
+    /* navegation bar */
+
+.navbar {
+    padding: 1rem 0 4.5rem;
+    padding-bottom: 1rem;
+    margin: 0 15%;
+}
+
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.1rem;
+    font-weight: bold;
+    color: #11999E;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat-light';
+    color: #11999E;
+}
+.container-fluid{
+    background-color: rgb(222, 252, 252);
+}
