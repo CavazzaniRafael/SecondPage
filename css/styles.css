@@ -71,8 +71,8 @@
     
     h3 {
     font-family: 'Montserrat', sans-serif;
-    color: #11999E;
     font-size: 1.5rem;
+    font-weight: bold
     }
     
     
@@ -82,7 +82,7 @@
     
     }
     .seccond-project{
-    background-color: #72ec9b;
+    background-color: #a2e6b8;
     padding: 7rem 1rem 9rem ;
     
     }
@@ -93,17 +93,20 @@
     margin-right: 30px;
     
     }
-    .comingsoon {
+    .dicegame {
     height: 40%;
     width: 40%;
     float: right;
     margin-left: 30px;
-    /* position relative to fix the coming soon */
-    position: relative;
-    bottom:60px;
-    
     }
-    
+    .h3-tindog{
+        color: #11999E;
+    }
+
+    .h3-dice{
+        color: #ad8120;
+    }
+
     .top-cloud2 {
     position: absolute;
     top: 40px;
