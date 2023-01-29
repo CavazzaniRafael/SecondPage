@@ -72,7 +72,8 @@
     h3 {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.5rem;
-    font-weight: bold
+    color: #11999E; 
+
     }
     
     
@@ -91,6 +92,7 @@
     width: 40%;
     float: left;
     margin-right: 30px;
+    margin-bottom: 100%;
     
     }
     .dicegame {
@@ -101,10 +103,12 @@
     }
     .h3-tindog{
         color: #11999E;
+        font-weight: bold;
     }
 
     .h3-dice{
         color: #ad8120;
+        font-weight: bold;
     }
 
     .top-cloud2 {
@@ -259,3 +263,4 @@
     width: 200px;
     height: 200px;
 }
+
