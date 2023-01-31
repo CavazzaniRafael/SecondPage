@@ -75,7 +75,9 @@
     color: #11999E; 
 
     }
-    
+    .games{
+        margin-bottom: 10rem;
+    }
     
     .first-project{
     background-color: #cacc5e;
@@ -84,8 +86,12 @@
     }
     .seccond-project{
     background-color: #a2e6b8;
-    padding: 7rem 1rem 9rem ;
+    padding: 7rem 1rem 5rem ;
     
+    }
+    .third-project{
+    background-color: #a2e6b8;
+    padding: 4rem 1rem 9rem ;        
     }
     .tindog {
     height: 40%;
@@ -93,8 +99,16 @@
     float: left;
     margin-right: 30px;
     margin-bottom: 20%;
-    
     }
+    
+    .drumkit{
+        height: 40%;
+        width: 40%;
+        float: left;
+        margin-right: 30px;
+        margin-bottom: 20%;
+    }
+
     .dicegame {
     height: 40%;
     width: 40%;
@@ -107,7 +121,7 @@
         font-weight: bold;
     }
 
-    .h3-dice{
+    .h3-games{
         color: #ad8120;
         font-weight: bold;
     }
@@ -126,10 +140,9 @@
     color: #11999E;
     word-spacing: 50px;
     }
-    
     .skill-row {
     width: 50%;
-    margin: 100px auto;
+    margin: 50px auto;
     text-align: left;
     line-height: 2;
     
@@ -264,3 +277,4 @@
     width: 200px;
     height: 200px;
 }
+
