@@ -93,6 +93,11 @@
     background-color: #a2e6b8;
     padding: 4rem 1rem 9rem ;        
     }
+    .fourth-project{
+    background-color: #a2e6b8;
+    padding: 4rem 1rem 9rem ; 
+
+    }
     .tindog {
     height: 40%;
     width: 40%;
@@ -106,6 +111,13 @@
         width: 40%;
         float: left;
         margin-right: 30px;
+        margin-bottom: 20%;
+    }
+    .simon-game{
+        height: 40%;
+        width: 40%;
+        float: right;
+        margin-left: 30px;
         margin-bottom: 20%;
     }
 
